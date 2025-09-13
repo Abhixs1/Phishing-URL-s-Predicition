@@ -44,7 +44,7 @@ This project leverages *feature engineering, data preprocessing, and ML pipeline
 ### Installation
 ```bash
 # Clone the repo
-git clone https://github.com/your-username/phishing-url-detection.git
+git clone [ https://github.com/Abhixs1/Phishing-URL-s-Predicition ]
 cd phishing-url-detection
 
 # Install dependencies
